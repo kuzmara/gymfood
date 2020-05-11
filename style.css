@@ -1,0 +1,130 @@
+body 	{background-image: url("https://wallpapercave.com/wp/wp2639534.jpg"); 
+		background-attachment: fixed; 
+		}
+
+.uvod {background-color: ; 
+		;}
+.naslov {background-color: white;
+	border: solid 5px black;
+	font-size: 60px;
+		font-family: arial;
+		padding-left: 15px;
+		padding-top: 15px;
+		text-shadow: 2px 3px grey;
+		letter-spacing: 3px;
+		margin-left: 550px;
+		margin-right: 550px;
+	opacity: 0.9;}
+.ikona { border-radius: 7px
+;}
+
+
+.topnav{opacity: 0.9;
+border: solid 5px black;
+ background-color: white ;
+		overflow :hidden; 
+	     font-size: 30px;
+	 	border-radius: 5px;}
+.topnav a {opacity: 0.9;
+	
+	float: left;
+			color: black;
+			text-align: center;
+			padding: 10px 260px;}
+
+.desnoo { opacity: 0.9;
+	border: solid 5px black;
+	background-color: white;
+	 float: right;
+	 margin-top: 20px;
+	 padding: 15px;
+	border-radius: 5px;}
+		 
+.zanimljivosti { padding: 20px;
+				border-radius: 8px;
+				opacity: 0.9;}
+.svajc {border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 890px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 15px;
+			margin-bottom: 50px;}
+
+.levo { 
+opacity: 0.9;
+	border: solid 5px black;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	padding: 15px;
+	border-radius: 5px;
+	margin-left: 10px;
+
+
+}
+.saveti { 
+opacity: 0.9;
+	padding: 20px;
+		border-radius: 8px;
+
+}
+.roni {
+opacity: 0.9;
+	border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 890px;
+		
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 15px;
+			margin-bottom: 50px;}
+.jaj {opacity: 0.9;
+border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 890px;
+		
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 498px;
+			margin-bottom: 50px;
+		border: solid 5px black;}
+
+.dorii {padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 890px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 498px;
+			margin-bottom: 50px;
+		border: solid 5px black;}
+.lee {padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 890px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 498px;
+			margin-bottom: 50px;
+		border: solid 5px black;}
+

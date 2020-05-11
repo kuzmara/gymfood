@@ -1,0 +1,75 @@
+body 	{background-image: url("https://www.rennie.co.uk/static/media/images/content/headers/quick_and_healthy_lunches_to_eat_on_the_go.jpg"); 
+		background-attachment: fixed;
+		}
+.naslov {font-size: 60px;
+		font-family: arial;
+		padding-left: 30px;
+		padding-bottom: 5px;
+		margin-right: 700px;
+		margin-left: 700px;
+		text-shadow: 2px 3px gray;
+		letter-spacing: 3px;
+		color: black;
+		background-color:white;
+		border-radius: 5px;
+		
+border: solid 5px black;
+opacity: 0.9;
+	}
+.centar { opacity: 0.9;
+	background-color: black ;
+			border-radius: 5px;
+		background-color: white;
+		width: 1000px;
+		margin-left: px;
+		color: black;
+		border: solid 5px black;
+	}
+.levo { opacity: 0.9;
+	background-color: black ;
+			border-radius: 5px;
+		background-color: white;
+		width: 850px;
+		margin-left: 520px;
+		color: black;
+		border: solid 5px black;
+	height: 860px;}
+
+.masa {border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 460px;
+			margin-bottom: 50px;}
+
+.def {border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 460px;
+			margin-bottom: 50px;}
+
+.racunica {border: solid 5px black;
+	padding: 20px;
+    margin-top: 20px;
+    	background-color: white;
+    	color: black;
+			width: 920px;
+		opacity: 0.9;
+			border-radius: 8px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 460px;
+			margin-bottom: 50px;}
